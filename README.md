@@ -110,6 +110,31 @@ Window--->Document--->html--->head --- ( meta, meta, title, link )
 //Properties
 
 tagName : returns tag for element nodes
-innerText :
-innerHTML :
-textContent :
+innerText : returns the text content of the element and all its children
+innerHTML : returns the plain text or HTML contents in the elements
+textContent : returns textual content even for hidden elements
+
+//Attributes 
+
+getAttribute(attr)  // to get the attribute value
+getAttribute(attr,value)  // to set the attribute value
+
+//Style
+
+node.style
+
+//Insert Elements
+                  let el = document.createElement("div")
+
+node.append(el) //adds at the end of node(inside)
+node.prepend(el) //adds at the start of node(inside)
+node.before(el) //adds before the node(outside)
+node.after(el) //adds after the node(outside)
+
+//Delete Elements
+
+node.remove()  //removes the node
+
+
+
+ 
