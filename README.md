@@ -136,5 +136,8 @@ node.after(el) //adds after the node(outside)
 node.remove()  //removes the node
 
 
+sorry i m preparing for sensehq 
+
+
 
  
