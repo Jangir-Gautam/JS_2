@@ -136,15 +136,6 @@ node.after(el) //adds after the node(outside)
 node.remove()  //removes the node
 
 
-sorry i m preparing for sensehq 
-sorry fpor another day 
-sorry for another day ???
-preparing for sensehq interview thats why not today 
-not today yr
-
-
-not today yr ...
-from today
-
+let start from todahy again
 
  
