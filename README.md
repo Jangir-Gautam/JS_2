@@ -137,5 +137,5 @@ node.remove()  //removes the node
 
 
 let start from todahy again
-
+THERE ARE 6 QUESTIO N I HAVE TO DO 
  
